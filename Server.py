@@ -1,4 +1,4 @@
-from File_SC import Server
+from file_sockets import Server
 
 
 def main():
