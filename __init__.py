@@ -1,2 +1,2 @@
-from File_SC import Server
-from File_SC import Client
+from file_sockets import Server
+from file_sockets import Client
