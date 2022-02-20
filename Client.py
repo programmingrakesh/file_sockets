@@ -1,4 +1,4 @@
-from  file_server import Client
+from  file_sockets import Client
 
 def main():
     client = Client(IP='localhost', PORT=9090, SIZE=10240, FORMAT='utf-8')
